@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test.com.example.saavy.parsipdf.mycustomtextview xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/text1"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp"
+    android:paddingRight="20dp"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#428bca"
+    android:textColor="#ffffff"
+    android:textSize="18dp"/>

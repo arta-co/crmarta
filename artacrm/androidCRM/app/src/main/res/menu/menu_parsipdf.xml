@@ -1,0 +1,37 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity"
+    >
+   <!-- <item
+        android:id="@+id/overflow"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_list"
+        android:title=""
+        >
+        <menu>
+            <item
+                android:id="@+id/upload"
+                android:title="ارسال فایل"
+                android:icon="@drawable/send"
+
+                />
+
+            <item
+                android:id="@+id/tracking"
+                android:title="پیگیری درخواست"
+                android:icon="@drawable/tracking"/>
+
+            <item
+                android:id="@+id/help"
+                android:title="راهنما"
+                android:icon="@drawable/help"/>
+            <item
+                android:id="@+id/about"
+                android:title="درباره ما"
+                android:icon="@drawable/waiting"/>
+        </menu>
+    </item>-->
+    <!--<item android:id="@+id/mnulogin" android:title="ورود"
+        android:orderInCategory="100" app:showAsAction="never" android:icon="@drawable/ic_action_list"/>-->
+</menu>
